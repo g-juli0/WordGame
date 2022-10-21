@@ -1,0 +1,6 @@
+Inigo,Get6FingeredMan,4,15,40
+Westley,IAmDreadPirate,2,7,25
+Vizzini,Inconceivable!,5,11,32
+Fezzik,Sportsmanlike,4,17,54
+Buttercup,LightningSand,2,9,21
+Humperdinck,IShouldBeKing,1,3,10
